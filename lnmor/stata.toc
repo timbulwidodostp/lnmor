@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p lnmor Compute marginal (log) odds ratios after model estimation Use lnmor With STATA 18
