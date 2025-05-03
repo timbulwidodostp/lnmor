@@ -1,5 +1,7 @@
 # lnmor
-Compute marginal (log) odds ratios after model estimation Use lnmor With STATA 18
+Compute marginal (log) odds ratios after model estimation Use lnmor With STATA 19
+
+https://www.youtube.com/watch?v=tBycwZquT8w
 
 Olah Data Semarang
 
